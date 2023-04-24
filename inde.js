@@ -1,5 +1,5 @@
      <script>
-        // JavaScript code
+          // Change this id to your bootstrap carousel id 
 const myCarousel = document.getElementById('carouselExampleIndicators');
 
 myCarousel.addEventListener('slide.bs.carousel', event => {
